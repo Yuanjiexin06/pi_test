@@ -3,7 +3,7 @@ import TankGame from './components/TankGame';
 export default function Home() {
   return (
     <main>
-      <h1>坦克大战</h1>
+      <h1>坦克大战AItest</h1>
       <p className="subtitle">经典坦克大战 · Next.js + Canvas 实现</p>
       <TankGame />
       <div className="controls">

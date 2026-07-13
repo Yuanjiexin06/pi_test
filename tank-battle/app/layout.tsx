@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "坦克大战 - Tank Battle",
+  title: "坦克大战AItest - Tank Battle",
   description: "使用 Next.js 开发的经典坦克大战游戏",
 };
 
